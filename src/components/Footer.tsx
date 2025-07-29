@@ -37,9 +37,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2 text-primary-foreground/80">
-              <p>Ahmedabad, Gujarat, India</p>
-              <p>Phone: +91 XXXXXXXXXX</p>
-              <p>Email: info@sanjitfacilities.com</p>
+              <p>A-301 Unicus Shyamal, Opp. Iconic Shyamal, Shyamal Cross Road, Ahmedabad</p>
+              <p>Phone: +91 76004 59483 | +91 96626 26767</p>
+              <p>Email: sanjitfacilitiesmanagementllp@gmail.com</p>
               <p className="text-yellow-400 font-medium">24/7 Emergency Support</p>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-primary-foreground/70 text-sm">
-            © 2024 Sanjit Facilities Management LLP. All rights reserved.
+            © 2025 Sanjit Facilities Management LLP. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-primary-foreground/70 hover:text-primary-foreground text-sm transition-smooth">

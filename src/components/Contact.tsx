@@ -35,7 +35,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Address</h4>
-                    <p className="text-muted-foreground">Ahmedabad, Gujarat, India</p>
+                    <p className="text-muted-foreground">A-301 Unicus Shyamal, Opp. Iconic Shyamal, Shyamal Cross Road, Ahmedabad</p>
                   </div>
                 </div>
                 
@@ -45,7 +45,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Phone</h4>
-                    <p className="text-muted-foreground">+91 XXXXXXXXXX</p>
+                    <p className="text-muted-foreground">+91 76004 59483 | +91 96626 26767</p>
                   </div>
                 </div>
                 
@@ -55,7 +55,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Email</h4>
-                    <p className="text-muted-foreground">info@sanjitfacilities.com</p>
+                    <p className="text-muted-foreground">sanjitfacilitiesmanagementllp@gmail.com</p>
                   </div>
                 </div>
                 
