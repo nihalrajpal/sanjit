@@ -20,10 +20,16 @@ const Hero = () => {
               variant="secondary"
               size="lg"
               className="text-primary border-primary hover:bg-primary hover:text-white"
+              onClick={() => {
+                document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
+              }}
             >
               Get Free Quote
             </Button>
-            <Button variant="secondary" size="lg">
+            <Button variant="secondary" size="lg"
+              onClick={() => {
+                document.getElementById('services')?.scrollIntoView({ behavior: 'smooth' });
+              }}>
               View Services
             </Button>
           </div>
