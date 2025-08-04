@@ -9,12 +9,13 @@
 
 .embla {
   overflow: hidden;
+  width: 100%;
 }
 .embla__container {
   display: flex;
 }
 .embla__slide {
-  flex: 0 0 25%; /* Show 4 at a time */
+  flex: 0 0 35%; /* Show 4 at a time */
   padding: 1rem;
   display: flex;
   justify-content: center;

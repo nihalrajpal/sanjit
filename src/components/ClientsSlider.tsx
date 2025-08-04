@@ -4,9 +4,12 @@ import useEmblaCarousel from "embla-carousel-react";
 const clients = [
     { name: "Aurum Legacy", logo: "/uploads/aurum-legacy.webp" },
     { name: "Eminence 96", logo: "/uploads/eminence-96.jpg" },
+    { name: "Iconic Shyamal", logo: "/uploads/iconic-shyamal.jpeg" },
     { name: "Kala Samartheshwar", logo: "/uploads/kala-samartheshwar.png" },
     { name: "Kala Siddhi", logo: "/uploads/kala-siddhi.png" },
+    { name: "Kautilya", logo: "/uploads/Kautilya.webp" },
     { name: "Shafalya", logo: "/uploads/shafalya.jpg" },
+    { name: "Times104", logo: "/uploads/times.jfif" },
     { name: "The Verity", logo: "/uploads/the-verity.png" },
     { name: "Unicus Shyamal", logo: "/uploads/unicus-shyamal.png" },
     { name: "Veritas", logo: "/uploads/veritas.jpg" },

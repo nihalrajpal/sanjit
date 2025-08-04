@@ -20,25 +20,36 @@ import {
 } from "lucide-react";
 
 const Services = () => {
+  // const services = [
+  //   { icon: Building2, title: "Office Cleaning", description: "Professional office cleaning and maintenance services" },
+  //   { icon: Hospital, title: "Hospital Housekeeping", description: "Specialized healthcare facility cleaning with strict hygiene protocols" },
+  //   { icon: Hotel, title: "Hotel Cleaning", description: "Complete hospitality cleaning solutions for hotels and resorts" },
+  //   { icon: Factory, title: "Industrial Cleaning", description: "Heavy-duty industrial cleaning for manufacturing facilities" },
+  //   { icon: ShoppingCart, title: "Mall Cleaning", description: "Comprehensive cleaning services for shopping complexes" },
+  //   { icon: GraduationCap, title: "School Cleaning", description: "Safe and thorough cleaning for educational institutions" },
+  //   { icon: Sparkles, title: "Deep Cleaning", description: "Intensive deep cleaning for complete sanitization" },
+  //   { icon: Bug, title: "Pest Control", description: "Professional pest management and prevention services" },
+  //   { icon: Square, title: "Window Cleaning", description: "Crystal clear window cleaning for all types of buildings" },
+  //   { icon: Armchair, title: "Upholstery Cleaning", description: "Expert cleaning for furniture and upholstered items" },
+  //   { icon: Trees, title: "Landscaping", description: "Complete landscaping and garden maintenance services" },
+  //   { icon: Shield, title: "Security Services", description: "Professional security solutions for your premises" },
+  //   { icon: Wrench, title: "Maintenance", description: "General maintenance and repair services" },
+  //   { icon: Coffee, title: "Pantry Services", description: "Complete pantry management and catering solutions" },
+  //   { icon: Users, title: "Manpower Supply", description: "Skilled workforce solutions for various requirements" },
+  //   { icon: Banknote, title: "Banking Facilities", description: "Specialized cleaning services for financial institutions" },
+  //   { icon: ChefHat, title: "Restaurant Cleaning", description: "Food service establishment cleaning and sanitization" }
+  // ];
   const services = [
-    { icon: Building2, title: "Office Cleaning", description: "Professional office cleaning and maintenance services" },
-    { icon: Hospital, title: "Hospital Housekeeping", description: "Specialized healthcare facility cleaning with strict hygiene protocols" },
-    { icon: Hotel, title: "Hotel Cleaning", description: "Complete hospitality cleaning solutions for hotels and resorts" },
-    { icon: Factory, title: "Industrial Cleaning", description: "Heavy-duty industrial cleaning for manufacturing facilities" },
-    { icon: ShoppingCart, title: "Mall Cleaning", description: "Comprehensive cleaning services for shopping complexes" },
-    { icon: GraduationCap, title: "School Cleaning", description: "Safe and thorough cleaning for educational institutions" },
-    { icon: Sparkles, title: "Deep Cleaning", description: "Intensive deep cleaning for complete sanitization" },
-    { icon: Bug, title: "Pest Control", description: "Professional pest management and prevention services" },
-    { icon: Square, title: "Window Cleaning", description: "Crystal clear window cleaning for all types of buildings" },
-    { icon: Armchair, title: "Upholstery Cleaning", description: "Expert cleaning for furniture and upholstered items" },
-    { icon: Trees, title: "Landscaping", description: "Complete landscaping and garden maintenance services" },
-    { icon: Shield, title: "Security Services", description: "Professional security solutions for your premises" },
-    { icon: Wrench, title: "Maintenance", description: "General maintenance and repair services" },
-    { icon: Coffee, title: "Pantry Services", description: "Complete pantry management and catering solutions" },
-    { icon: Users, title: "Manpower Supply", description: "Skilled workforce solutions for various requirements" },
-    { icon: Banknote, title: "Banking Facilities", description: "Specialized cleaning services for financial institutions" },
-    { icon: ChefHat, title: "Restaurant Cleaning", description: "Food service establishment cleaning and sanitization" }
-  ];
+  { icon: Wrench, title: "Facility Management", description: "Integrated management of infrastructure, maintenance, and operations" },
+  { icon: Building2, title: "Housekeeping Services", description: "Professional cleaning and upkeep for commercial and residential spaces" },
+  { icon: Users, title: "Staffing & Payroll Solutions", description: "Skilled workforce supply and efficient payroll management" },
+  { icon: Shield, title: "Private Security", description: "Trained and licensed security personnel for comprehensive protection" },
+  { icon: Factory, title: "Industrial Area Services", description: "Tailored maintenance and cleaning for industrial environments" },
+  { icon: Sparkles, title: "Deep Cleaning", description: "Thorough sanitization and intensive cleaning for all spaces" },
+  { icon: Bug, title: "Pest Control", description: "Effective pest management and prevention services" },
+  { icon: Users, title: "Manpower Supply", description: "Skilled workforce solutions for various requirements" },
+];
+
 
   return (
     <section id="services" className="py-20 bg-secondary/30">
