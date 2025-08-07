@@ -38,7 +38,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2 text-primary-foreground/80">
               <p>A-301 Unicus Shyamal, Opp. Iconic Shyamal, Shyamal Cross Road, Ahmedabad</p>
-              <p>Phone: +91 7984842152 | +91 96626 26767</p>
+              <p>Phone: +91 79848 42152 | +91 78029 42152</p>
               <p>Email: sanjitfacilitiesmanagementllp@gmail.com</p>
               <p className="text-yellow-400 font-medium">24/7 Emergency Support</p>
             </div>
