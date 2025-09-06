@@ -13,6 +13,7 @@ const clients = [
     { name: "The Verity", logo: "/uploads/the-verity.png" },
     { name: "Unicus Shyamal", logo: "/uploads/unicus-shyamal.png" },
     { name: "Veritas", logo: "/uploads/veritas.jpg" },
+    { name: "Kalthia Engineering", logo: "/uploads/kalthiaengineering.png" },
 ];
 
 export default () => {
